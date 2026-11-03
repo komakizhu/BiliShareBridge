@@ -1,0 +1,8 @@
+outputs/
+work/
+*.dylib
+*.deb
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
